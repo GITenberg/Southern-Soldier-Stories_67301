@@ -1,0 +1,39 @@
+_repo: Southern-Soldier-Stories_67301
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Zogbaum, Rufus Fairchild
+    alias: Zogbaum, R. F. (Rufus Fairchild)
+    birthdate: 1849
+    deathdate: 1925
+    gutenberg_agent_id: '38096'
+    url: http://www.gutenberg.org/2009/agents/38096
+creator:
+  author:
+    agent_name: Eggleston, George Cary
+    birthdate: 1839
+    deathdate: 1911
+    gutenberg_agent_id: '8154'
+    url: http://www.gutenberg.org/2009/agents/8154
+    wikipedia: https://en.wikipedia.org/wiki/George_Cary_Eggleston
+description: ''
+gutenberg_issued: '2022-02-02'
+identifiers:
+  gutenberg: '67301'
+language: en
+pgterms:marc904: https://archive.org/details/southernsoldiers10eggl/page/n7/mode/2up
+pgterms:marc905: 20200807090841eggleston
+pgterms:marc906: '1898'
+pgterms:marc907: US
+production_note: Carlos Colon, David E. Brown, The University of North Carolina at
+  Chapel Hill and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive/American
+  Libraries.)
+publication_note: United States :The Macmillan Company,1898.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Southern Soldier Stories
+url: http://www.gutenberg.org/ebooks/67301
